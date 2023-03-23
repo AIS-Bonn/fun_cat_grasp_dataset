@@ -18,7 +18,7 @@ The dataset is particularly useful for research in a field of functional graspin
 All meshes are scaled to realistic sizes, more specifically: to be grasped by a 5-finger Schunk SIH hand.
 
 <p align="middle">
-  <img src="images/drills.png" width="323" /> &nbsp;&nbsp;&nbsp;
-  <img src="images/spray_bottles.png" width="323" /> &nbsp;&nbsp;&nbsp;
-  <img src="images/mugs.png" width="323" />
+  <img src="images/drills.png" width="250" /> &nbsp;&nbsp;&nbsp;
+  <img src="images/spray_bottles.png" width="250" /> &nbsp;&nbsp;&nbsp;
+  <img src="images/mugs.png" width="250" />
 </p>
