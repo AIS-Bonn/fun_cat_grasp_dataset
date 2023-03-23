@@ -22,3 +22,17 @@ All meshes are scaled to realistic sizes, specifically: to be functionally grasp
   <img src="images/spray_bottles.png" width="250" /> &nbsp;&nbsp;&nbsp;
   <img src="images/mugs.png" width="250" />
 </p>
+
+### References
+
+Before modification, source meshes were obtained from:
+
+[Learning Postural Synergies for Categorical Grasping through
+Shape Space Registration](https://www.ais.uni-bonn.de/papers/Humanoids_2018_Rodriguez.pdf)
+
+[Free3d](https://free3d.com)
+
+[Freepik](https://www.freepik.com)
+
+[3DSky](https://3dsky.org)
+
